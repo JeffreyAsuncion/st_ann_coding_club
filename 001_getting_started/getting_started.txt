@@ -1,0 +1,12 @@
+St. Ann’s Coding Club
+
+
+
+Learning Python websites with exercises
+
+https://realpython.com/learning-paths/python3-introduction/ 
+
+https://realpython.com/tic-tac-toe-ai-python/ 
+
+Free online python IDE
+https://replit.com/languages/python3
